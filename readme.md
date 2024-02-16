@@ -8,3 +8,4 @@ Here goes my notes for the 'Diplomado'
 - collections
 - data types
 - git
+- Classes and structures
